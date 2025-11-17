@@ -1,0 +1,30 @@
+======================================================================
+RosettaML Bootcamp 2025 - HW2 Verification Results
+======================================================================
+
+Student Name: REPLACE_WITH_YOUR_NAME
+Timestamp: 2025-11-16T20:10:42.291629
+Python Version: 3.14.0 (main, Oct 28 2025, 12:13:17) [Clang 20.1.4 ]
+Platform: Linux-6.12.10-76061203-generic-x86_64-with-glibc2.35
+
+Installation Checks:
+----------------------------------------------------------------------
+
+PYMOL:
+  Installed: False
+  Error: Command 'pymol' not found or not working
+
+VSCODE:
+  Installed: True
+  Version: 1.106.0
+ac4cbdf48759c7d8c3eb91ffe6bb04316e263c57
+x64
+
+File Checks:
+----------------------------------------------------------------------
+  1ubq_session.pse: Present
+  1ubq_visualization.png: Present
+
+======================================================================
+STATUS: SOME CHECKS FAILED ✗
+======================================================================
